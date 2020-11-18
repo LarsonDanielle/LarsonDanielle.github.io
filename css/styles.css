@@ -1,4 +1,4 @@
-/*basic styles */
+/* basic styles */
 html {
   font-family: 100%;
   line-height: 1.5rem;
@@ -314,7 +314,7 @@ video {
     height: 1417px; /* 6 items tall */
   }
 }
-@meida (min-width: 746px) {
+@media (min-width: 746px) {
   .shop-box {
     width: 746px;
   }
@@ -323,7 +323,7 @@ video {
   }
 }
 
-@meida (min-width: 986px) {
+@media (min-width: 986px) {
   .shop-box {
     width: 986px;
   }
@@ -332,7 +332,7 @@ video {
   }
 }
 
-@meida (min-width: 1226px) {
+@media (min-width: 1226px) {
   .shop-box {
     width: 1226px;
   }
